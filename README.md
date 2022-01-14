@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+
+## Overview
+
+![React text app](https://github.com/Basudev1/text-processor/blob/master/text-react.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
